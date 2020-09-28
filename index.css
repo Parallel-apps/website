@@ -53,3 +53,6 @@ font-size: 150%;
 	display: block;
 	margin: auto;
 }
+
+#QR:hover{
+border: black 2px solid;
