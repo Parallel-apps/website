@@ -55,4 +55,5 @@ font-size: 150%;
 }
 
 #QR:hover{
-border: black 2px solid;
+border: solid 2px black;
+}
